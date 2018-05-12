@@ -1,0 +1,47 @@
+_repo: A-Russian-Gentleman_38781
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Duff, J. D. (James Duff)
+    alias: Duff, James Duff
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '39652'
+    url: http://www.gutenberg.org/2009/agents/39652
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aksakov, S. T. (Sergei Timofeevich)
+    aliases:
+    - Aksakoff, Serge
+    - Аксаков, Сергей Тимофеевич
+    - Aksakov, Sergey Timofeievich
+    - Aksakov, Sergei Timofeevich
+    birthdate: 1791
+    deathdate: 1859
+    gutenberg_agent_id: '39648'
+    url: http://www.gutenberg.org/2009/agents/39648
+    wikipedia: http://en.wikipedia.org/wiki/Sergey_Aksakov
+description: ''
+gutenberg_issued: '2012-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Biography'
+- !lcc 'DK'
+- !lcsh 'Aksakov, S. T. (Sergei Timofeevich), 1791-1859 -- Family'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917'
+- !lcsh 'Aksakov family'
+tableOfContents: Stepan Mihailovitch Bagroff [i.e. Aksakov] -- Mihail Maximovitch
+  Kurolyessoff -- The marriage of the young Bagroff -- The young couple at Bagrovo
+  -- Life at Ufa.
+title: A Russian Gentleman
+url: http://www.gutenberg.org/ebooks/38781
